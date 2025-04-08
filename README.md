@@ -1,2 +1,2 @@
 # Factory-Method-Pattern
-In this folder I simplify the factory method to better understand and remember it.
+In this repo, I simplified the factory method to understand it better and remember it.

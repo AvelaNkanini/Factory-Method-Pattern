@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\bin\Debug\Factory method pattern.exe.config
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\bin\Debug\Factory method pattern.exe
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\bin\Debug\Factory method pattern.pdb
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\obj\Debug\Factory method pattern.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\obj\Debug\Factory method pattern.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\obj\Debug\Factory method pattern.exe
+C:\Users\PC\Downloads\C#-Practicals\Factory method pattern\Factory method pattern\obj\Debug\Factory method pattern.pdb
